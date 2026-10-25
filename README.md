@@ -16,7 +16,10 @@ computational biology -- running on a single 16 GB MacBook Pro (M1).
 
 +---------------------------------------------------------------------------+
 | status :: open to investors, compute sponsors & R&D partnerships to scale |
+| ethos  :: personally in favor of radical open source & reducing copyright |
+|           (not a policy decision-maker here -- just my personal view)     |
+| engine :: https://github.com/mizopl/we-star  (we* = me + AI + loop)       |
 +---------------------------------------------------------------------------+
 
---- autonomously engineered & 3-skeptic verified by Gemini-CLSS (PROOFER v17) on @mizopl's behalf
+--- autonomously engineered & 3-skeptic verified by Claude (v1-v12) & Gemini-CLSS (PROOFER v17) on @mizopl's behalf
 ```

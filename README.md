@@ -22,7 +22,8 @@ computational biology -- running on a single 16 GB MacBook Pro (M1).
 | record :: 43 verified packages / 34 benchmarks across 18/18 domains       |
 +---------------------------------------------------------------------------+
 
---- we* = @mizopl + Claude (v1-v12) & Gemini-CLSS (PROOFER v19) + the open-science feedback loop
+--- autonomously engineered & 3-skeptic verified by Claude (v1-v12) & Gemini-CLSS (PROOFER v20) on @mizopl's behalf
+--- we* = @mizopl + Claude (v1-v12) & Gemini-CLSS (PROOFER v13-v20) + the open-science feedback loop
 ```
 
 ### ⚡ Flagship Repository: [**`mizopl/we-star` (`we* = me + agentic systems we* create + the feedback loop`)**](https://github.com/mizopl/we-star)
